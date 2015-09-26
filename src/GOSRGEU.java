@@ -104,7 +104,7 @@ public class GOSRGEU {
 		radioButton_6.setBounds(6, 196, 299, 23);
 		frame.getContentPane().add(radioButton_6);
 		
-		JButton button = new JButton("\u0414\u0430\u043B\u0435\u0435");
+		JButton button = new JButton("\u041E\u043A");
 		button.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
 				if(radioButton_2.isSelected()){
